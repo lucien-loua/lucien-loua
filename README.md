@@ -1,7 +1,6 @@
 # 👋 Hello World!
 
-Je suis **Lucien**, passionné du développement web spécialisé dans la création d'interface & expérience utilisateur.
-[![An image of @xyhomi3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xyhomi3)](https://holopin.io/@xyhomi3)
+I'm **Lucien**, passionate about web development and creating user interfaces and experiences.
 
 ##
 
@@ -54,9 +53,6 @@ TypeScript               8 repos             ███████████�
 JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
-
-
-
  Last Updated on 23/01/2025 04:18:20 UTC
 <!--END_SECTION:waka-->
 ---
@@ -65,7 +61,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,md,scss,tailwind,react,docker,express,astro,vite,nextjs,vercel,figma,ableton" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,ruby,css,scss,tailwind,react,vite,nextjs,docker,figma,ableton" />
   </a>
 </p>
 
