@@ -5,6 +5,8 @@ I'm **Lucien**, passionate about web development and creating user interfaces an
 ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C921%20hrs%2018%20mins-blue)
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -16,7 +18,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 02:05:09 UTC
+ Last Updated on 03/10/2025 04:45:25 UTC
 <!--END_SECTION:waka-->
 ---
 
