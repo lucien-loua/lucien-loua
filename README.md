@@ -5,47 +5,6 @@ I'm **Lucien**, passionate about web development and creating user interfaces an
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C924%20hrs%2053%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16041 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-🌆 Daytime                28098 commits       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌃 Evening                41129 commits       █████████░░░░░░░░░░░░░░░░   36.80 % 
-🌙 Night                  26488 commits       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   32288 commits       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Tuesday                  15523 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Wednesday                9536 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Thursday                 22652 commits       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Friday                   12465 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Saturday                 10635 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Sunday                   8657 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Dakar
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -57,7 +16,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 20:42:09 UTC
+ Last Updated on 16/11/2025 02:24:11 UTC
 <!--END_SECTION:waka-->
 ---
 
